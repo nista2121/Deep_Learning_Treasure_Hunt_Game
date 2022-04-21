@@ -1,4 +1,4 @@
-# cs-370-Current_and_Emergent_Trends
+#Treasure Hunt Game 
 	The theme of this project is a popular treasure hunt game in which the player needs to find the treasure before the pirate does. I will be implanting the part of the game that represents the intelligent agent, which is a pirate in this case. The pirate will try to find the optimal path to the treasure using deep Q-learning
 	
 	The first class, TreasureMaze.py, represents the environment, which includes a maze object defined as a matrix.
